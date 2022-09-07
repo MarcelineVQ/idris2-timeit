@@ -1,0 +1,15 @@
+package timeit
+version     = 0.0.1.2
+
+sourcedir   = "src"
+authors     = "MarcelineVQ"
+license     = "CC0 (refer to LICENSE file)"
+brief       = "Plain simple timing of actions for HasIO"
+readme      = "README.md"
+homepage    = "https://github.com/MarcelineVQ/idris2-timeit"
+sourceloc   = "https://github.com/MarcelineVQ/idris2-timeit.git"
+bugtracker  = "https://github.com/MarcelineVQ/idris2-timeit/issues"
+
+depends     = base
+
+modules     = TimeIt
